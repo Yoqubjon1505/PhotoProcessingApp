@@ -1,0 +1,1 @@
+This project is an ASP.NET Core API application that allows users to register and upload a photo. The photo is then processed into three different sizes and stored in a database. The user is notified once the photo processing is complete. This application uses RabbitMQ and MassTransit for message queueing and handling.
